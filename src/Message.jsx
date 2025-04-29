@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import { useState } from "react";
 const Message = ({ onClose, data, messageClass}) => {
  
   return (
